@@ -3,3 +3,5 @@ for the notebook to work you need to download it as well as the zipped data. unz
 To run the notebook you should run all cells after that you can change the values for each method as you wish.
 With the 2 csv you can look at tournament ids and team names to use the methods i provided. Remember that you can also change the date to get diffrent rankings.
 have fun :)
+
+edit: I used the data-science 3.0 Image inside AWS Sagemaker Studio in case something doesn't work which it shouldn't 
